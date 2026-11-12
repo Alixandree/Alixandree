@@ -1,61 +1,43 @@
-<h1 data-importer="text" align="center">👨‍💻 Pedro Alixandre - Information Systems</h1>
+<h1 align="center">👨‍💻 Pedro Alixandre - Information Systems</h1>
 
-###
+### Olá
 
-<h3 data-importer="text" align="left">Olá</h3>
+Sou aluno do UniFOA, cursando Information Systems (Sistemas de Informação).<br>
+Busco me profissionalizar nas minhas áreas de interesse, que incluem Software Development (Desenvolvimento de Software).<br>
+Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua na minha trajetória.
 
-###
+### Linguagens / Ferramentas
 
-<p data-importer="text" align="left">Sou aluno do UniFOA, cursando Information Systems (Sistemas de Informação).<br>Busco me profissionalizar nas minhas áreas de interesse, que incluem Software Development (Desenvolvimento de Software). <br>Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua na minha trajetória.</p>
-
-###
-
-<br clear="both">
-
-<h3 data-importer="text" align="left">Linguagens / Ferramentas</h3>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<div align="left">
+  <img src="https://jsdelivr.net" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://jsdelivr.net" height="40" alt="html5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://jsdelivr.net" height="40" alt="css3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://jsdelivr.net" height="45" alt="mysql" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img src="https://jsdelivr.net" height="40" alt="azure" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://jsdelivr.net" height="40" alt="vscode" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://jsdelivr.net" height="40" alt="figma" />
   <img width="12" />
-  <img src="https://skillicons.dev" height="40" alt="github logo" />
+  <img src="https://icons8.com" height="40" alt="github" />
 </div>
 
-###
+<br>
 
-<div data-importer="socials" align="center">
-  <a href="https://block-medias.vercel.app/" target="_blank">
-    <img src="https://shields.io" height="25" alt="acesso restrito" />
+<div align="center">
+  <a href="https://vercel.app" target="_blank">
+    <img src="https://shields.io" height="30" alt="Acesso Restrito" />
   </a>
 </div>
 
-###
+<br>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Alixandree/Alixandree/snake-output/snake.svg" alt="Snake animation" />
+<img width="100%" src="https://vercel.app" />
 
-###
-
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+<div align="center">
+  <img src="https://laobi.icu" alt="Views" />
 </div>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Alixandree.Alixandree&left_text=Views" />
-</div>
-
-###
